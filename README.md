@@ -1,35 +1,39 @@
-# Hi there, I'm Witold! 👋
+# Hi, I'm Witold 👋
 
-### 👨‍💻 QA Automation Engineer | Software Developer
-Passionate about bridging the gap between development and quality assurance. I specialize in building robust automation frameworks, optimizing CI/CD pipelines, and creating internal tools that streamline development workflows.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-- **Languages:** Python, C#, Java, TypeScript, Kotlin
-- **Automation:** Robot Framework, Playwright, Selenium, WinAppDriver, Pywinauto
-- **Backend & Web:** .NET, REST APIs, Vue.js, React Native
-- **DevOps & Infrastructure:** Docker, Jenkins, Bamboo, Git, Linux, PostgreSQL
+**QA Automation Engineer | Python & .NET Developer**
 
 ---
 
-### 🚀 Key Focus Areas
-- **Industrial Systems:** Scaling automation for SCADA software.
-- **Tooling:** Developing custom web apps to automate JIRA reporting and test documentation.
-- **Process Optimization:** Implementing Quality Gates and real-time monitoring in CI/CD.
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- **Testing:** Robot Framework, Playwright, Selenium
+- **CI/CD:** Bamboo, Jenkins
 
 ---
 
-### 📊 GitHub Stats
-![Witold's GitHub stats](https://github-readme-stats.vercel.app/api?username=witoldszgl&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=witoldszgl&layout=compact&theme=tokyonight)
+### 📊 GitHub Activity
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=witoldszgl&show_icons=true&theme=tokyonight&hide_border=true" alt="witoldszgl stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witoldszgl&layout=compact&theme=tokyonight&hide_border=true" alt="witoldszgl langs" height="150" />
+</p>
 
 ---
 
-### 📫 Contact Me
-- **LinkedIn:** [linkedin.com/in/witold-szumigala](https://www.linkedin.com/in/witold-szumigala/)
-- **Email:** witold.szumigala@gmail.com
+### 📫 Contact
+
+<a href="https://www.linkedin.com/in/witold-szumigala/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:witold.szumigala@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ---
-*“Quality is not an act, it is a habit.”*
