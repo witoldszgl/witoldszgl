@@ -18,15 +18,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=witoldszgl&show_icons=true&theme=tokyonight&hide_border=true" alt="witoldszgl stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witoldszgl&layout=compact&theme=tokyonight&hide_border=true" alt="witoldszgl langs" height="150" />
-</p>
-
----
-
 ### 📫 Contact
 
 <a href="https://www.linkedin.com/in/witold-szumigala/">
