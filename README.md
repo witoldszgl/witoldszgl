@@ -1,6 +1,6 @@
 # Hi, I'm Witold 👋
 
-**QA Automation Engineer | Python & .NET Developer**
+*Software Engineer | .NET & Python | Test Automation**
 
 ---
 
