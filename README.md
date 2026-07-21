@@ -16,7 +16,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witoldszgl&layout=compact&hide_border=true&theme=default" alt="Most Used Languages" />
 </p>
-
 ---
 
 ### 🛠️ Tech Stack
